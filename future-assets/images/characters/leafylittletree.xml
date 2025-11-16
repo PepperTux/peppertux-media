@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="leafylittletree.png">
+<SubTexture name="walk0000" x="0" y="0" width="72" height="79" frameX="-9" frameY="-7" frameWidth="86" frameHeight="84" />
+<SubTexture name="walk0001" x="72" y="0" width="72" height="79" frameX="-9" frameY="-7" frameWidth="86" frameHeight="84" />
+<SubTexture name="walk0002" x="0" y="79" width="72" height="79" frameX="-9" frameY="-7" frameWidth="86" frameHeight="84" />
+<SubTexture name="walk0003" x="72" y="79" width="72" height="79" frameX="-9" frameY="-7" frameWidth="86" frameHeight="84" />
+<SubTexture name="stacked0000" x="0" y="158" width="72" height="71" frameX="-9" frameY="-14" frameWidth="86" frameHeight="84" />
+<SubTexture name="frozen0000" x="72" y="158" width="72" height="79" frameX="-9" frameY="-7" frameWidth="86" frameHeight="84" />
+<SubTexture name="frozenstacked0000" x="0" y="237" width="72" height="73" frameX="-9" frameY="-14" frameWidth="86" frameHeight="84" />
+</TextureAtlas>
